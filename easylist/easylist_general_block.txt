@@ -23,7 +23,7 @@
 &adgroupid=
 &adlist=
 &admeld_
-&admid=
+&admid=$~subdocument
 &adname=
 &adnet=
 &adnum=
@@ -125,6 +125,7 @@
 -ad-live.
 -ad-loading.
 -ad-manager/$~stylesheet
+-ad-map/
 -ad-marker.
 -ad-mpu+
 -ad-new_
@@ -133,6 +134,8 @@
 -ad-random/
 -ad-refresh.
 -ad-refresh/
+-ad-reload.
+-ad-reload/
 -ad-resize-
 -ad-right.
 -ad-rotator-
@@ -190,6 +193,7 @@
 -ads-728x
 -ads-banner.
 -ads-bottom.
+-ads-Feature-
 -ads-iframe.
 -ads-init&
 -ads-management/
@@ -233,6 +237,7 @@
 -adspace_
 -adSponsors.
 -adspot-
+-adsscript.
 -adswizz-
 -adsystem-
 -adtechfront.
@@ -250,7 +255,7 @@
 -advert2.
 -advert3.
 -advert_August.
--advertise.$domain=~mb-advertise.gr
+-advertise.$domain=~i-advertise.net|~mb-advertise.gr
 -advertise/
 -advertise01.
 -advertisement-icon.
@@ -266,6 +271,7 @@
 -advertorial.
 -adverts.libs.
 -adverts.min.
+-advt.
 -adwords.$domain=~freelance-adwords.com|~freelance-adwords.fr
 -affiliate-link.
 -affiliates/img_
@@ -429,9 +435,10 @@
 .adinject.$domain=~adinject.com
 .adlabs.$domain=~adlabs.ru
 .admarvel.
+.admicro.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
 .adnigma.
-.adpartner.
+.adpartner.$domain=~adpartner.cz
 .adplacement=
 .adresult.$domain=~adresult.ch
 .adriver.$~object-subrequest
@@ -568,6 +575,7 @@
 .eu/adv/
 .exp_ad-
 .fm/ads/
+.ga/ads.
 .gg/ads/
 .gif?ad=
 .GoogleDfpSlot.
@@ -743,6 +751,7 @@
 /2013/ads/*
 /2014/ads/*
 /2015/ads/*
+/2018-ads-
 /24-7ads.
 /24adscript.
 /250x250-adverts.
@@ -832,6 +841,7 @@
 /ad-builder.
 /ad-button1.
 /ad-callback.
+/ad-catalogue-
 /ad-cdn.
 /ad-channel-
 /ad-choices-
@@ -982,6 +992,7 @@
 /ad/a.aspx?
 /ad/activateFlashObject.
 /ad/ad2/*
+/ad/add_
 /ad/adp_
 /ad/afc_
 /ad/article_
@@ -993,6 +1004,7 @@
 /ad/bannerdetails/*
 /ad/bannerimg/*
 /ad/banners/*
+/ad/bbl-
 /ad/behavpixel.
 /ad/bin/*
 /ad/blank.
@@ -1563,7 +1575,7 @@
 /adcde.js
 /adcdn.
 /adcell/*
-/adcenter.$script,domain=~adcenter.nu|~m-m-g.com
+/adcenter.$script,domain=~adcenter.capgemini.com|~adcenter.nu|~m-m-g.com
 /adcentral.
 /adCfg.
 /adcframe.
@@ -1627,7 +1639,7 @@
 /adcycle.
 /adcycle/*
 /add728.
-/addata.
+/addata.$domain=~addata.io
 /addatasandbox?
 /addeals/*
 /addefend.
@@ -1898,6 +1910,7 @@
 /admarker_
 /admarket/*
 /adMarketplace.
+/admarubanners.
 /admarvel.
 /admaster.$domain=~admaster.biz
 /admaster?
@@ -1909,7 +1922,7 @@
 /admax/*
 /admaxads.
 /admeasure.
-/admedia.
+/admedia.$domain=~admedia.co.il
 /admedia/*
 /admega.
 /admeld.
@@ -2153,6 +2166,7 @@
 /ads.bmp?
 /ads.bundle.
 /ads.cfm?
+/ads.client-
 /ads.cms
 /ads.compat.
 /ads.css
@@ -2596,6 +2610,7 @@
 /ads_top_
 /ads_topbar_
 /ads_ui.
+/ads_videos/*
 /ads_view.
 /Ads_WFC.
 /ads_yahoo.
@@ -3164,7 +3179,7 @@
 /adverthorisontalfullwidth.
 /advertical.
 /advertise-
-/advertise.$domain=~advertise.apartments.com|~advertise.bingads.microsoft.com|~advertise.directoryofillustration.com|~advertise.isleofskye.com|~advertise.market|~advertise.medillsb.com|~advertise.movem.co.uk|~advertise.sobihamilton.ca|~advertise.sphamovingads.com|~engineering.com
+/advertise.$domain=~advertise.apartments.com|~advertise.bingads.microsoft.com|~advertise.directoryofillustration.com|~advertise.isleofskye.com|~advertise.market|~advertise.medillsb.com|~advertise.movem.co.uk|~advertise.sobihamilton.ca|~advertise.sphamovingads.com|~advertise.welovebuzz.com|~engineering.com
 /advertise/*$domain=~legl.co
 /advertise125x125.
 /advertise_
@@ -3198,8 +3213,8 @@
 /advertises/*
 /advertisewithus_
 /advertising-$domain=~abramarketing.com|~advertising-direct.com|~advertising-factory.de|~outbrain.com|~yellowimages.com
-/advertising.$domain=~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com
-/advertising/*$~xmlhttprequest,domain=~commercialplanet.eu|~kloterfarms.com|~temple.edu|~themarker.com
+/advertising.$domain=~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.org.il|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com
+/advertising/*$~xmlhttprequest,domain=~advertising.org.il|~commercialplanet.eu|~kloterfarms.com|~temple.edu|~themarker.com
 /advertising02.
 /advertising2.
 /advertising300x250.
@@ -3445,6 +3460,7 @@
 /alwebad_
 /am/ads.
 /amazon-ad-
+/amazon-associates-link-
 /amazon-async-
 /amazon/iframeproxy-
 /amazon/widget/*
@@ -3469,6 +3485,7 @@
 /app/ads/*
 /aptads/*
 /Article-Ad-
+/article-advert-
 /article_ad.
 /articlempuadvert/*
 /articleSponsorDeriv_
@@ -4126,6 +4143,7 @@
 /doors/ads/*
 /doubleclick.aspx
 /doubleclick.js
+/doubleclick.min
 /doubleclick.php
 /doubleclick.swf
 /doubleclick/iframe.
@@ -4377,6 +4395,7 @@
 /frequencyads.
 /friendfinder_
 /frnads.
+/front/ad/*
 /front/ads-
 /frontads/*
 /frontend/ads/*
@@ -4621,6 +4640,7 @@
 /home/sponsor_
 /home30/ad.
 /home_adv.
+/homeadsscript.
 /homeoutside/ads/*
 /homepage-ads/*
 /homepage/ads/*
@@ -5576,6 +5596,7 @@
 /product-ad/*
 /product-ads/*
 /product_ad_widget/*
+/ProductAd.
 /productAds/*
 /production/ads/*
 /prog-sponsor/*
@@ -5697,7 +5718,7 @@
 /reklam-ads2.
 /reklam.
 /reklam/*
-/reklama.$~stylesheet
+/reklama.$~stylesheet,domain=~reklama.mariafm.ru
 /reklama/*
 /reklama1.
 /reklama2.
@@ -6778,6 +6799,7 @@
 ?canp=adv_
 ?category=ad&
 ?dfpadname=
+?exo_zones=
 ?file=ads&
 ?framId=ad_
 ?g1t2h=*&t1m2k3=
@@ -6922,6 +6944,7 @@ _ad_sidebar_
 _ad_size.
 _ad_sky.
 _ad_skyscraper.
+_ad_slot/
 _ad_slot=
 _ad_small.
 _ad_sponsor/
@@ -7498,6 +7521,7 @@ _nb_sys.$script,~third-party
 /cdn-cgi/pe/bag2?r*revcontent.com
 /cdn-cgi/pe/bag2?r*revdepo.com
 /cdn-cgi/pe/bag2?r*srvpub.com
+/cdn-cgi/pe/bag2?r*zwaar.org
 /cdn-cgi/pe/bag?r*cpalead.com
 /cdn-cgi/pe/bag?r*pubads.g.doubleclick.net
 ! adinsertion used on gizmodo.in lifehacker.co.in

@@ -432,6 +432,7 @@
 /facebook-over.
 /facebook-page-popup-cadence/*$~stylesheet
 /facebook-pagelike-widget/*
+/facebook-popup-
 /facebook-send-button.
 /facebook-share-
 /facebook-share.
@@ -514,6 +515,7 @@
 /facebookmall.
 /facebookon.
 /facebookpin.
+/facebookpopup.
 /facebookPrev.
 /facebookred.
 /facebookShare-
@@ -616,6 +618,7 @@
 /follow-us.$~stylesheet
 /follow-widget-
 /follow-widget.
+/follow-with-google-
 /follow-youtube.
 /follow/Facebook-
 /follow/Google+
@@ -1002,7 +1005,11 @@
 /icon_twt.
 /icon_youtube.
 /icon_youtube_
+/icona-social.
 /iconbig-twitter-
+/icone_fb.
+/icone_tw.
+/icone_yt.
 /iconFacebook-
 /iconFacebook.
 /iconGooglePlus.
@@ -1101,6 +1108,7 @@
 /images/pinterest-$domain=~pinterest.com
 /images/Pinterest_$domain=~pinterest.com
 /images/reddit-
+/images/share-
 /images/share.
 /images/share/*
 /images/share_
@@ -1419,6 +1427,7 @@
 /plugins/wp-tweet-button/*
 /plus-badge.
 /popinfacebook.
+/popup/fb-like-
 /popups/facebook_
 /portals/*facebook.jpg
 /portals/*google-plus.jpg
@@ -1487,6 +1496,7 @@
 /share-gp-
 /share-gp.
 /share-icon-
+/share-icon.
 /share-icons-
 /share-icons.
 /share-icons/*
@@ -1509,6 +1519,7 @@
 /share-twitter-
 /share-twitter.
 /share-twitter1a.
+/share-weibo.
 /share.json?
 /share.php?buttons=
 /share.png
@@ -1543,6 +1554,7 @@
 /share_button?
 /share_button_
 /share_buttons-
+/share_buttons_
 /share_byline_
 /share_count.
 /share_delicious.
@@ -1666,6 +1678,9 @@
 /sn_facebook_
 /sn_plurk_
 /sn_share_
+/snsbiglogo.
+/snslogo.
+/snslogo_
 /soc-fb.
 /soc-icons.
 /soc-lj2.
@@ -1718,6 +1733,8 @@
 /social-instagram-
 /social-instagram.
 /social-like-
+/social-likes-
+/social-likes_
 /social-links-
 /social-locker/*$script
 /social-logos.
@@ -1969,6 +1986,7 @@
 /socialSmall/*
 /SocialSprite.
 /socialsprites.
+/socialstat?
 /socialtwitter1.
 /socila-media-
 /sociofluid/*$~script,~stylesheet
@@ -2388,6 +2406,7 @@ _facebook_main.
 _facebook_small.
 _facebook_social_
 _facebook_white.
+_facebookbadge.
 _FacebookIcon.
 _facebooklogo.
 _FaceBookSlider/$~stylesheet
@@ -2459,6 +2478,7 @@ _pinteresticon.
 _rssicon.
 _share_bt.
 _share_buttons.
+_share_buttons/
 _share_google.
 _share_icon.
 _share_icon_
@@ -2505,6 +2525,7 @@ _social_instagram.
 _social_linked_
 _social_media_icons_
 _social_pinterest.
+_social_share_
 _social_shares.
 _social_small.
 _social_sprite.

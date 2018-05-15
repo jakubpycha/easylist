@@ -20,6 +20,7 @@
 ||fin24.com^*/iabLogo.
 ||findthebest.co.uk/ajax/load_tracker
 ||forms.windowsitpro.com^
+||gagasiradio.fm^*/htop.
 ||gamestop.com^*/btt.jpg
 ||gameyum.com/_static/popup/
 ||gogoanime.se^*/croll.
@@ -33,7 +34,7 @@
 ||jobs.newscientist.com^$subdocument
 ||l.yimg.com/zz/combo?pv*/promo-banner_$script
 ||l.yimg.com^*/img/badge-
-||lightboxcdn.com^$third-party,domain=adweek.com|avclub.com|bearingarms.com|cracked.com|culturemap.com|fastcompany.com|gamespot.com|modernfarmer.com|nbcsports.com|reason.com|redstate.com|thehill.com|theonion.com|theroot.com|townhall.com|twitchy.com|zdnet.com
+||lightboxcdn.com^$third-party,domain=adweek.com|androidcentral.com|avclub.com|bearingarms.com|cnet.com|crackberry.com|cracked.com|culturemap.com|fastcodesign.com|fastcompany.com|gamespot.com|imore.com|modernfarmer.com|nbcsports.com|reason.com|redstate.com|thehill.com|theonion.com|theroot.com|townhall.com|twitchy.com|windowscentral.com|zdnet.com
 ||macworld.co.uk/widget_uk/
 ||mediafire.com/images/backgrounds/download/*promo
 ||mg.co.za^*/iabsa_
@@ -42,8 +43,10 @@
 ||ndtv.com/popupNotification.aspx
 ||netdna-cdn.com/wp-content/plugins/omg-magnific/magnific.min.js?$domain=omgchrome.com
 ||netdna-cdn.com/wp-content/uploads/mySpoonful-Signup-Banner.jpg$domain=myspoonful.com
+||newyorker.com/static/failsafe/
 ||nscreenmedia.com^*-newsletter.
 ||orain.org/w/index.php/Special:BannerRandom?
+||politics.co.uk^*/newsletter.
 ||radiomirchi.com^*/soc_iconNew
 ||realstylenetwork.com/celebrities/*&action=inc_popup
 ||redbunker.net/images/redb/redyeni.gif
@@ -52,7 +55,10 @@
 ||snip.ly^$script
 ||sowetanlive.co.za/images/sl.html
 ||space.com/images/site/social/
+||thejewishstar.com/images/enews-
 ||thelocal.*/interstitial/
+||therealnews.com^*/sign_up.
+||therealnews.com^*/subfp.
 ||thesouthafrican.com^*/iab_
 ||thrillist.com/campaigns/vortexInfo/$script
 ||tunein.com/account/newiframe/signup/*conversionPopup
@@ -67,6 +73,7 @@
 ||wufoo.com/embed/$subdocument,third-party,domain=heavy.com
 ||xhamster.com/ajax/cams-widget/
 ||yandex.st/share/
+||zte.com.cn^*_back_top.
 ! Newsletter/Signup scripts
 ||amazonaws.com^*/subscription/
 ||attn.com/survey
@@ -84,6 +91,7 @@
 ||tmform.azurewebsites.net^
 ||webmd.com/dtmcms/live/webmd/*/newsletter/
 ! Cookie,privacy,legal Messages
+||consent.cmp.oath.com^
 ||cookie.oup.com^
 ||cookie.radioplayer.co.uk^
 ||harpercollins.co.uk/js/cookie.js
@@ -92,3 +100,4 @@
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
 ||onlive.co.uk/account/cookie_notice
 ||propcom.co.uk/cookie/
+||yimg.com^*/guce.js

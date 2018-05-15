@@ -31,7 +31,9 @@
 /altClickToSearch.
 /app-banner/*$xmlhttprequest
 /arscode-ninja-popups/*$~stylesheet
+/at_newsletter.
 /back-to-top.
+/back_to_top.
 /backtotop.
 /base/rss-
 /bloc_newsletter.
@@ -39,14 +41,18 @@
 /bmg_tbar.
 /bookmarkcraze_
 /browserDetection/jquery.reject.js
+/bt_pagetop.
 /btn-email.
 /btn-feedback.
 /btn-rss-
 /btn-rss.
+/btn_back2top.
+/btn_back2top_
 /btnGigpark.
 /btnMobile.
 /btnRSS.
 /buttons/rss_
+/cdn-cgi/pe/bag2?*addthis.com
 /cdn-cgi/pe/bag2?*odb.outbrain.com
 /commentshareicons.
 /conversional-popup.
@@ -172,13 +178,18 @@
 /navicon_feeds.
 /newsgator.gif
 /newsletter-app.
+/newsletter-box-
+/newsletter-forms.
 /newsletter-hover/*
 /newsletter-icon.
 /newsletter-icon_
 /newsletter-mapping/*
 /newsletter-pattern.
+/newsletter-promo-
 /newsletter-signup.
 /newsletter-subscription-
+/newsletter_arrow.
+/newsletter_icona.
 /newsletterbutton.
 /newslettericon2.
 /newslettersignup.
@@ -210,6 +221,7 @@
 /popup_do_
 /popupally-pro-scripts/*$script
 /public/*/rss_
+/pum-site-scripts.
 /pushwooshNotification/*
 /rdc-plugins/js/newsletter.
 /recommend.php$subdocument,~third-party
@@ -277,6 +289,7 @@
 /sailthru/*
 /sc_rss.
 /scroll-top-and-bottom/*
+/scrolltotop/*
 /sendtofriend.gif
 /share-email.
 /sharebar.
@@ -382,6 +395,7 @@ _subscribe_button
 /accept-cookie.
 /accept-cookies.
 /acceptCookies.
+/agreeCookie.
 /alertcookie.
 /alertcookies.
 /amCookieApproval.
@@ -474,6 +488,7 @@ _subscribe_button
 /cookie_sticky_
 /cookie_ws.
 /cookie_ws/*
+/cookieaccept.
 /CookieAccept/*
 /cookieacceptance.
 /cookiealert.
@@ -515,6 +530,7 @@ _subscribe_button
 /cookiejar/*
 /cookielaw.$~stylesheet
 /cookielawinfo.$~script
+/CookieLawProduct/*
 /cookielex/*
 /cookiemanagement.js
 /cookieMention.
@@ -583,6 +599,7 @@ _subscribe_button
 /cookiewarning.
 /cookiewarning?
 /cookiewet.
+/disagreeCookie.
 /divascookies_
 /dotbandeaucookie/*
 /ecookie_check/*

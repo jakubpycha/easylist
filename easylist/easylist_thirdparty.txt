@@ -241,7 +241,6 @@
 ||atomicpopularity.com/dfpd.js
 ||augine.com/widget|$third-party
 ||autodealer.co.za/inc/widget/$third-party
-||automate-prod.s3.amazonaws.com^
 ||autoprivileges.net/news/
 ||autotrader.ca/result/AutosAvailableListings.aspx?$third-party
 ||autotrader.co.za/partners/$third-party
@@ -506,6 +505,7 @@
 ||d19972r8wdpby8.cloudfront.net^
 ||d1ade4ciw4bqyc.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
+||d1ar5xirbydtuc.cloudfront.net^
 ||d1cl1sqtf3o420.cloudfront.net^
 ||d1d43ayl08oaq2.cloudfront.net^
 ||d1d95giojjkirt.cloudfront.net^
@@ -619,6 +619,7 @@
 ||d3t2wca0ou3lqz.cloudfront.net^
 ||d3t9ip55bsuxrf.cloudfront.net^
 ||d3tdefw8pwfkbk.cloudfront.net^
+||d3uqm14ppr8tkw.cloudfront.net^
 ||d3vc1nm9xbncz5.cloudfront.net^
 ||d5pvnbpawsaav.cloudfront.net^
 ||d6bdy3eto8fyu.cloudfront.net^
@@ -1308,6 +1309,7 @@
 ||oasap.com/images/affiliate/
 ||obox-design.com/affiliate-banners/
 ||ocp.cbs.com/pacific/request.jsp?
+||oddschecker.com^*/widget?$third-party
 ||odin.goo.mx^
 ||offers-service.cbsinteractive.com^$third-party
 ||offers.lendingtree.com/splitter/$third-party
@@ -1465,6 +1467,7 @@
 ||rapidgator.net/images/pics/$third-party
 ||rapidgator.net/images/pics/*_300%D1%85250_
 ||rapidjazz.com/banner_rotation/
+||ratecity.com.au/widgets/$third-party
 ||ratesupermarket.ca/widgets/
 ||rbth.ru/widget/$third-party
 ||rcm*.amazon.$third-party
@@ -1756,6 +1759,7 @@
 ||tripadvisor.com/WidgetEmbed-*&partnerId=$domain=rbth.co.uk|rbth.com
 ||trivago.co.uk/uk/srv/$third-party
 ||tshirthell.com/img/affiliate_section/$third-party
+||ttgtmedia.com/Marketing/
 ||ttt.co.uk/TMConverter/$third-party
 ||turbobit.net/ref/$third-party
 ||turbobit.net/refers/$third-party
@@ -1887,6 +1891,7 @@
 ||worldnow.com/images/incoming/RTJ/rtj201303fall.jpg
 ||worldofjudaica.com/products/dynamic_banner/
 ||worldofjudaica.com/static/show/external/
+||wp.com/*.postaffiliatepro.com/$third-party
 ||wp.com^*/linkwidgets/$domain=coedmagazine.com
 ||wpzoom.com/images/aff/$third-party
 ||wrapper.ign.com^$third-party

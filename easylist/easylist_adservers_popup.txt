@@ -8,6 +8,7 @@
 ||104.198.147.108^$popup
 ||104.198.156.187^$popup,third-party
 ||11c9e55308a.com^$popup,third-party
+||11x11.com^$popup
 ||123vidz.com^$popup,third-party
 ||130.211.230.53^$popup,third-party
 ||1afcfcb2c.ninja^$popup,third-party
@@ -45,6 +46,7 @@
 ||888promos.com^$popup,third-party
 ||9newstoday.net^$popup,third-party
 ||abbeyblog.me^$popup,third-party
+||abbp1.pw^$popup
 ||ablogica.com^$popup,third-party
 ||absoluteclickscom.com^$popup,third-party
 ||accede.site^$popup,third-party
@@ -67,6 +69,7 @@
 ||adca.st^$popup
 ||adcash.com^$popup,third-party
 ||adcdnx.com^$popup,third-party
+||addmoredynamiclinkstocontent2convert.bid^$popup
 ||adexc.net^$popup,third-party
 ||adexchangecloud.com^$popup
 ||adexchangeguru.com^$popup
@@ -142,6 +145,7 @@
 ||annualinternetsurvey.com^$popup,third-party
 ||answered-questions.com^$popup,third-party
 ||aocular.com^$popup,third-party
+||approp.pro^$popup,third-party
 ||apugod.work^$popup,third-party
 ||ar.voicefive.com^$popup,third-party
 ||arecio.work^$popup,third-party
@@ -152,6 +156,7 @@
 ||avalopaly.com^$popup,third-party
 ||awempire.com^$popup,third-party
 ||awsclic.com^$popup,third-party
+||b54m4qbmt0b9.com^$popup
 ||babi.gdn^$popup,third-party
 ||bargetbook.com^$popup,third-party
 ||baypops.com^$popup,third-party
@@ -175,6 +180,7 @@
 ||bestarmour4u.work^$popup,third-party
 ||bestforexplmdb.com^$popup
 ||bestproducttesters.com^$popup,third-party
+||bestquickcontentfiles.com^$popup
 ||betigo.work^$popup,third-party
 ||betoga.com^$popup,third-party
 ||bezoya.work^$popup,third-party
@@ -229,6 +235,7 @@
 ||clickter.net^$popup,third-party
 ||clicktripz.com^$popup,third-party
 ||clkads.com^$popup,third-party
+||clkcln.com^$popup,third-party
 ||clkfeed.com^$popup,third-party
 ||clkmon.com^$popup,third-party
 ||clkrev.com^$popup,third-party
@@ -267,6 +274,7 @@
 ||denza.pro^$popup,third-party
 ||develop-forevery4u.com^$popup,third-party
 ||digitaldsp.com^$popup
+||dinuclean.com^$popup,third-party
 ||directrev.com^$popup
 ||distantnews.com^$popup,third-party
 ||distantstat.com^$popup,third-party
@@ -371,6 +379,7 @@
 ||hilltopads.net^$popup
 ||hipersushiads.com^$popup,third-party
 ||hitcpm.com^$popup,third-party
+||hitopadxdo.xyz^$popup
 ||hlpnowp-c.com^$popup,third-party
 ||homecareerforyou1.info^$popup,third-party
 ||hornygirlsexposed.com^$popup,third-party
@@ -402,6 +411,7 @@
 ||internalredirect.site^$popup,third-party
 ||interner-magaziin.ru^$popup,third-party
 ||iwanttodeliver.com^$popup,third-party
+||ixeq490u20.com^$popup
 ||jdtracker.com^$popup,third-party
 ||jettags.rocks^$popup,third-party
 ||jsmentry.com^$popup
@@ -429,6 +439,7 @@
 ||letshareus.com^$popup,third-party
 ||lettercrow.bid^$popup
 ||letzonke.com^$popup,third-party
+||lie2anyone.com^$popup
 ||ligatus.com^$popup,third-party
 ||likingyetsnarl.com^$popup
 ||linkmyc.com^$popup,third-party
@@ -561,6 +572,7 @@
 ||predictivadnetwork.com^$popup
 ||predictivadvertising.com^$popup
 ||preditates.com^$popup
+||prfdesk.pro^$popup
 ||prigmaperf.me^$popup,third-party
 ||prime535.com^$popup
 ||print3.info^$popup,third-party
@@ -613,6 +625,7 @@
 ||reallifecam.com^$popup,third-party
 ||recessary.com^$popup
 ||red-direct-n.com^$popup
+||redirect18systemsg.com^$popup
 ||redirect2719.ws^$popup
 ||redirections.site^$popup,third-party
 ||redirectvoluum.com^$popup
@@ -625,7 +638,6 @@
 ||retainguaninefluorite.info^$popup,third-party
 ||retaryrs.com^$popup
 ||retkow.com^$popup,third-party
-||revcontent.com^$popup
 ||revimedia.com^$popup
 ||rgadvert.com^$popup,third-party
 ||rikhov.ru^$popup,third-party
@@ -757,6 +769,7 @@
 ||unqpun.pro^$popup
 ||updater-checker.net^$popup,third-party
 ||usenetnl.download^$popup,third-party
+||v3rjvtt.com^$popup
 ||vamartin.work^$popup,third-party
 ||vdtrack.com^$popup
 ||vdztrack.com^$popup,third-party

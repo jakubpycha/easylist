@@ -247,6 +247,7 @@
 ||fapxl.com/view/spot/
 ||fastpic.ru/js_f2.jpg
 ||fastpic.ru/js_h2.jpg
+||fboomporn.com^*/fb*.gif
 ||femdom-fetish-tube.com/popfemdom.js
 ||fetishok.com/js/focus.$script
 ||fetishok.com/rec/$subdocument
@@ -365,6 +366,8 @@
 ||hitomi.la/hitomi-vertical.js
 ||hollyscoop.com/sites/*/skins/
 ||hollywoodoops.com/img/*banner
+||home-made-videos.com/krijgjetoch.php
+||home-made-videos.com/kutstelers.js
 ||homegrownfreaks.net/homegfreaks.js
 ||homeprivatevids.com/banner2.shtml
 ||homeprivatevids.com/banners.shtml
@@ -475,6 +478,7 @@
 ||luscious.net/lamia205.
 ||luscious.net/luscious.
 ||luscious.net/revive.
+||luxuretv.com/includes/pop/
 ||lw1.cdmediaworld.com^
 ||madmovs.com/rec/
 ||madthumbs.com/madthumbs/sponsor/
@@ -630,6 +634,7 @@
 ||porn-w.org/images/ls.gif
 ||porn-w.org/images/lsb.gif
 ||porn-w.org/images/zevera.png
+||porn.com/171media42b/$xmlhttprequest
 ||porn.com/assets/partner_
 ||porn.com/js/pu.js
 ||porn.com^$subdocument,~third-party
@@ -908,6 +913,8 @@
 ||updatetube.com/js/adpupdatetube
 ||updatetube.com/js/fab.js
 ||upornia.com/contents/content_sources/
+||upornia.com^*.php?z=*&sub=$script
+||upornia.com^*/vda/
 ||vibraporn.com/vg/
 ||vid2c.com/js/atxpp.js?
 ||vid2c.com/js/pp.js
@@ -1219,11 +1226,7 @@ $websocket,domain=24video.cc|24video.in|24video.me|24video.sex|24video.xxx|pornh
 @@||yui.yahooapis.com^$script,third-party,domain=vintage-erotica-forum.com
 |http://$script,domain=vintage-erotica-forum.com
 ! Perfectgirls
-@@||perfectgirls.net/scripts/main.min.js?$script
-@@||perfectgirls.net/scripts/pg.js?$script
-@@||perfectgirls.net/scripts/pgloader.js?$script
-@@||perfectgirls.net/scripts/vendor.min.js?$script
-|http://$script,domain=perfectgirls.net
+|http://$script,domain=perfectgirls.es|perfectgirls.net|perfektdamen.co
 ! Sexgalaxy
 @@||sexgalaxy.net/wp-content/plugins/google-captcha/js/script.js?$script
 @@||sexgalaxy.net/wp-content/themes/annina-pro/js/jquery.anninapro.js?$script

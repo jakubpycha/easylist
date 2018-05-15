@@ -71,6 +71,7 @@
 ||content-recommendation.net^$third-party
 ||contextly.com^$third-party
 ||convertsocial.com^$third-party
+||cookie-accept.com^$third-party
 ||cookie-script.com^$third-party
 ||cookie.support^$third-party
 ||cookieassistant.com^$third-party
@@ -88,6 +89,7 @@
 ||curiyo.com^$third-party
 ||cursors-4u.net^$third-party
 ||d1uh1a7az90pt0.cloudfront.net^
+||desipearl.com^$third-party
 ||devscroll.com^$third-party
 ||dhpikd1t89arn.cloudfront.net^
 ||digsby.com^$third-party
@@ -123,6 +125,7 @@
 ||folloyu.com^$third-party
 ||form.jotformpro.com^$third-party,domain=entrepreneur.com
 ||foxpush.com^$third-party
+||foxpush.net^$third-party
 ||freetellafriend.com^$third-party
 ||fwix.com^$third-party
 ||galileofive.com^$third-party
@@ -281,6 +284,7 @@
 ||screenpopper.com^$third-party
 ||scribol.com^$third-party
 ||scripts.mailfire.io^$third-party
+||scrolltotop.com^$third-party
 ||secretrune.com^$third-party
 ||sendpulse.com^$third-party
 ||senzari.com^$third-party
@@ -309,7 +313,7 @@
 ||survey.constantcontact.com^$third-party
 ||survey.io^$third-party
 ||surveygizmo.com^$third-party
-||surveymonkey.com^$third-party,domain=~surverymonkey.co.uk|~surveymonkey.co.uk
+||surveymonkey.com^$third-party,domain=~surverymonkey.co.uk|~surveymonkey.co.uk|~surveymonkey.de
 ||swiftypecdn.com^$third-party
 ||swishu.com^$third-party
 ||synapsys.us^$third-party
@@ -341,6 +345,7 @@
 ||vrp.outbrain.com^$third-party
 ||vrt.outbrain.com^$third-party
 ||wahwahnetworks.com^$third-party
+||webpu.sh^$third-party
 ||weebly.com/*_signup.php$third-party
 ||weworkremotely.com^$third-party
 ||widget.adviceiq.com^$third-party
@@ -367,6 +372,7 @@
 ||wonderpush.com^$third-party
 ||woobox.com^$third-party
 ||ws.audioscrobbler.com^$third-party,domain=~last.fm|~lastfm.de|~lastfm.ru|~play.google.com|~spotify.com
+||xtremepush.com^$third-party
 ||yimg.com/uq/syndication/
 ||youappi.com/widget/$third-party
 ||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org

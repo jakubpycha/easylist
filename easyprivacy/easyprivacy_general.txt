@@ -15,6 +15,7 @@
 -analitycs/ga.
 -analitycs/metrica.
 -analytics-tagserver-
+-analytics-wi.
 -analytics.files.
 -analytics/insight.
 -appanalytics-
@@ -167,6 +168,7 @@
 .gif?hit_
 .gif?Log=$~xmlhttprequest
 .gif?pixels=
+.gif?ref=*&ev=
 .gif?track_
 .Google.Tracker.js
 .googleanalytics.js
@@ -430,6 +432,7 @@
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
+/amp-omniture-iframe?
 /amp/amp-analytics-
 /amp_ping/*
 /amplitude-*.js$script
@@ -452,11 +455,14 @@
 /analytics-event-
 /analytics-ingress-
 /analytics-js.
+/analytics-js/*
 /analytics-ping.
 /analytics-plugin/*
 /analytics-post-
+/analytics-savebt?
 /analytics-tag.
 /analytics-v1.
+/analytics.*/i?stm=
 /analytics.ad.
 /analytics.ashx
 /analytics.asmx
@@ -679,6 +685,8 @@
 /bcn.gif?
 /bcn?
 /bctrackers/*
+/bdg-analytics.
+/bdg.gif?
 /beacon-cookie.
 /beacon.cgi?
 /beacon.gif?
@@ -995,6 +1003,7 @@
 /cookietag?
 /coradiant.js
 /core-tracking.js
+/core/log.js
 /coretracking.php?
 /CorporatePageTracking.
 /count.cfm?
@@ -1147,6 +1156,7 @@
 /dtagent630_
 /dtagent_
 /dtm-ddo-utilities.js
+/dtm/*/satelliteLib-
 /dtm_cm.js
 /dtmtag.js
 /dtrack.js
@@ -1498,6 +1508,7 @@
 /googleanalytics/*
 /googleAnalytics1.
 /googleAnalytics2.
+/GoogleAnalytics2|
 /GoogleAnalytics?utmac=
 /googleAnalytics_
 /googleAnalyticsBase_
@@ -1510,6 +1521,7 @@
 /GoogleAnalyticsPlus/*
 /googleAnalyticsTracking.
 /GoogleAnalyticsTrackingProvider.js
+/GoogleAnalytics|
 /googleanalyze1.
 /googleanalyze2.
 /googletrack.js
@@ -1602,6 +1614,7 @@
 /i?redir=*&page=*&cookie=
 /i?siteid=
 /i?stm=*&refr=*&url=
+/i?stm=*&ue_px=
 /icf-analytics.js
 /ics/2/pview.gif?
 /id?d_visid_ver=
@@ -1805,6 +1818,7 @@
 /ktrace/ktrace$script
 /l1v.ly/*$third-party
 /landings-pixel?
+/LastClick/js?
 /layer_log.php?p=
 /lbi_ga.
 /leadgen/ga.js
@@ -2060,6 +2074,7 @@
 /mystats/track.js
 /mystats2.px?
 /myTracking.js
+/native-tag.
 /navbar-analytics.js
 /naveggQry-
 /NavMultiTracking.
@@ -2306,9 +2321,11 @@
 /pixel.*/track/*
 /pixel.aspx?
 /pixel.cgi?
+/pixel.fingerprint.
 /pixel.gif?
 /pixel.jsp?
 /pixel.php?
+/Pixel.pl?
 /pixel.png?
 /pixel.swf?
 /pixel.track2?
@@ -2388,6 +2405,7 @@
 /pro-ping.php?
 /probance_tracker.
 /process.php?ut=*&rf=
+/prod-analytics.
 /prodtracker?
 /profile_tracker.
 /promo_tracking/*
@@ -2430,11 +2448,13 @@
 /pxa.min.js
 /pxgif/*
 /pxl.cgi?
+/pxl.gif?
 /pxlctl.
 /pxls/*
 /pxlspamanalyst-
 /pxtrk.gif
 /pzn/proxysignature
+/qlitics.js
 /qtracker-
 /QualtricsSurvey.
 /quant.js
@@ -2505,6 +2525,8 @@
 /render?trackingId=
 /repdata.*/b/ss/*
 /report-re.
+/report/click?
+/report/impression?
 /report?event_
 /reporting/analytics.js
 /RequestTrackerServlet?
@@ -2580,6 +2602,7 @@
 /scmetrics.*/b/ss/*
 /script/analytics.
 /script/analytics/*
+/script/track?url=
 /script_log.
 /scriptAnalytics.
 /scripts.kissmetrics.com/*
@@ -2634,6 +2657,7 @@
 /servlet/Cookie?
 /session-hit.
 /session-tracker/tracking-
+/session.rjs
 /sessioncam.min.$script
 /sessioncam.recorder.js
 /sessioncam/*
@@ -2696,7 +2720,6 @@
 /sl.gif?1=
 /slimstat/*
 /small.gif?type
-/smarta.
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.tv
 /smarttag-prod.
@@ -3066,6 +3089,7 @@
 /tracker/t.php?
 /tracker/track.php?
 /tracker/track?
+/tracker/tracker-
 /tracker/tracker.js
 /tracker2.js
 /tracker?*=
@@ -3110,6 +3134,7 @@
 /tracking.php?q=
 /tracking.phtml?
 /tracking.relead.
+/tracking.rjs
 /tracking.vidt
 /tracking/*/agof-
 /tracking/?c_
@@ -3281,6 +3306,7 @@
 /uim.html/*
 /ulpixel.
 /ultra_track/*
+/umg-analytics/*
 /umt.gif?
 /unica.gif?
 /unica.js
@@ -3300,6 +3326,7 @@
 /URLSplitTrack?
 /us.gif?
 /userfly.js
+/users/track?
 /UserTraceCookie?
 /usertrack.aspx?
 /usertrack/sa.
@@ -3481,6 +3508,7 @@
 /webtraxs.
 /WebTrendsAnalytics/*
 /wego.farmer.
+/weizenbock/dist/*
 /wf/open?upn=$image
 /wh_tracking.
 /where-go-add.js
@@ -3635,6 +3663,7 @@
 ?action=tracking_script
 ?ad_played=
 ?affiliate=$third-party
+?args=*&t=
 ?begin_session=*&metrics=
 ?bstat=
 ?criteoTrack=
@@ -3757,7 +3786,7 @@ _wiselog_
 _wreport.fcgi?
 _zag_cookie.
 cgi-bin/counter
-http://utm.$domain=~utm.md|~utoronto.ca
+http://utm.$domain=~utm.edu|~utm.md|~utoronto.ca
 ||meetrics.netbb-
 ! Mining
 -coin-hive/$script
@@ -3811,6 +3840,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
+/webmr.js
 /webxmr.js
 /wproxy$~third-party,websocket
 /xminer.js

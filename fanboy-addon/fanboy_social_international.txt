@@ -3,7 +3,7 @@
 !
 dinamani.com,samakalikamalayalam.com###print_article
 armeniasputnik.am,sputnik-abkhazia.info,sputnik-abkhazia.ru,sputnik-georgia.com,sputnik-georgia.ru,sputnik-news.ee,sputnik-ossetia.com,sputnik-ossetia.ru,sputnik-tj.com,sputnik.az,sputnik.by,sputnik.kg,sputnik.md,sputniknews-uz.com,sputniknews.cn,sputniknews.kz,sputniknews.lt,sputniknewslv.com###share
-aljazeera.net,autoline-arabic.com,autoline-eu.rs,autoline.com.tr,autoline.lt,autoline.lv,autoline.me,autoline.mk,autoline.ro,autoline.si,autoline.sk##.share
+aljazeera.net,autoline-arabic.com,autoline-eu.rs,autoline.com.tr,autoline.lt,autoline.lv,autoline.me,autoline.mk,autoline.ro,autoline.si,autoline.sk,cnnturk.com##.share
 sahartv.ir##.share-instagram
 sahartv.ir##.share-mail
 sahartv.ir##.share-rss
@@ -11,7 +11,8 @@ sahartv.ir##.share-soundcloud
 sahartv.ir##.share-telegram
 sahartv.ir##.share-youtube
 elaph.com##.sharing
-ceroms.com,cnnindonesia.com,football.ir,rotana.net##.social
+ceroms.com,cnnindonesia.com,football.ir,rotana.net,sbc.sa##.social
+irinn.ir##.social-network
 ||seitzeichen.de^$third-party
 ||social-bookmarking-tools.de^$third-party
 ||static.pe.studivz.net^*/library.js$third-party
@@ -48,6 +49,7 @@ hitoradio.com###socialogo
 on.cc###toolBar
 ltn.com.tw,newhua.com##.share
 pearvideo.com##.share-to
+ntdtv.com##.social
 mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
 udn.com##.udn_facebook
@@ -92,6 +94,7 @@ moviepilot.de###fb-connect-dialog
 golem.de###followrss
 presseportal.de###iLike
 derstandard.at###infoslide
+deutschlandradio.de###pageContentClosure
 netzwelt.de###sccf
 focus.de###singlepostSlideInBoxHoch
 focus.de###singlepostSlideInBoxQuer
@@ -99,6 +102,7 @@ bild.de###smbChannelBlock
 myloc.de###social
 androidpit.de###swBar_1
 amazon.de###tafContainerDiv
+suedtirolnews.it###text-6
 presseportal.de###toolbox_sm
 teltarif.de###ttSBM
 t-online.de##.Tfb_aktion
@@ -113,9 +117,13 @@ chip.de##.col340-ri > .ad-ri + div[style="overflow:hidden; margin:0 0 22px 0;"]
 swr.de##.communityLinks
 gamestar.de##.content > .columnContent > .bottomservice
 model-kartei.de##.copyr
+deutschlandfunk.de##.dlf-articlesocial
+deutschlandfunkkultur.de##.drk-articlesocial
+deutschlandfunkkultur.de##.drk-headsocial
 heise.de,swr3.de,t3n.de##.facebook
 tape.tv##.facebook-prompt
 gutscheinsammler.de##.fancybox-overlay
+deutschlandfunk.de##.fb
 zentrum-der-gesundheit.de##.fbbox_overlay
 falk.de##.fbstatic
 myvideo.de##.globallike--fb-navi
@@ -124,6 +132,7 @@ n24.de##.google_interactivepos
 handelsblatt.com##.hcf-social-bookmark
 handelsblatt.com##.hcf-tbar-socials
 gmx.net##.head > #intro-aux
+deutschlandfunk.de##.in
 rbb-online.de##.include_bookmarks
 daswetter.com##.liCompartir
 swr3.de##.like-settings
@@ -142,13 +151,14 @@ playmassive.de,playnation.de##.sn
 heise.de##.soc-pos
 focus.de##.socBm
 focus.de##.socInfo
-kabeleins.de,n24.de,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,top.de##.social
+kabeleins.de,klassikradio.de,n24.de,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,top.de##.social
 futurezone.at##.social > li > a > img
 schwaebische.de##.social_communities
 playnation.de##.sos
 spiegel.de##.spHeaderFollow
 netzwelt.de##.stcl
 androidpit.de##.tile_Follow
+deutschlandfunk.de##.tw
 heise.de,ifun.de,iphone-ticker.de,swr3.de,t3n.de##.twitter
 neusprech.org##.wptwitter
 t3n.de##.youtube
@@ -161,10 +171,13 @@ gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
 ||auto-motor-und-sport.de/img/google.svg
 ||chip.de^*/fanconverter.js
 ||chip.de^*/google_plus_statisch_$image
+||deutschlandfunk.de^*/icon_sprite.svg
+||deutschlandfunkkultur.de^*/icon_sprite.svg
 ||dict.cc/img/fbplus1.png
 ||die-kopie.info/bilder/facebook.png
 ||nibelungenkurier.de/t-ticker/
 ||rtl.de/fb/
+||suedtirolnews.it^*/whatsapp.
 ||widgets.getsitecontrol.com^*/script.js$domain=winfuture.de
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 ! Spiegel.de
@@ -245,12 +258,14 @@ nouvelobs.com###facebook_aime
 gentside.com###fixed-pop
 gamekult.com###follow
 jeuxvideo.com###partager_v2
+madagascar-tribune.com###reseaux_sociaux
 cowcotland.com###rezo
 moniteurautomobile.be###scrollTop
 lepoint.fr###share
 sfr.fr###social
 leforem.be###suivi
 gentside.com##.action
+jeuneafrique.com##.art-toolbox
 leparisien.fr##.barrePartage
 lesechos.fr##.bloc-suiveznous
 ##.blocSociaux
@@ -278,6 +293,7 @@ tempsreel.nouvelobs.com##.obs-galerie-bp-share
 europe1.fr,lemonde.fr##.partage
 jeuxvideo.fr,jeuxvideopc.com##.pictos
 leparisien.fr##.plusRecommande
+madagascar-tribune.com##.rezo_sociaux
 autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,francetvinfo.fr,gamekult.com,la-croix.com,nieuwsblad.be##.share
 rtl.fr##.shared-logo
 20minutes.fr,buyindz.com,europe1.fr,gamergen.com,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,lorientlejour.com,methodelafayfemme.fr,petitfute.com,sudouest.fr##.social
@@ -300,19 +316,21 @@ soychile.cl###facebook
 hispantv.com###sharings-footer
 ara.cat##.ara-header-social
 yamaha-motor.com.br##.barra-midias
+lanacion.com.ar##.compartir
+apertura.com,cronista.com##.content-redes
 ondacero.es##.facebook
 starmedia.com##.fbk
 meteored.cl,meteored.com.ar,meteored.mx,tempo.com,tempo.pt,tiempo.com##.liCompartir
 uol.com.br##.likebox
 cadenaser.com##.modulo_compartir
-crea-mexico.com##.redes
+crea-mexico.com,futbol.com.uy,montevideo.com.uy,pantallazo.com.uy,telesurtv.net##.redes
 larazon.es##.rrss
 beteve.cat##.rrss-buttons
-autoline-br.com,autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,autoline.pt,elperiodico.cat,elperiodico.com,hispantv.com##.share
+autoline-br.com,autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,autoline.pt,clarin.com,elperiodico.cat,elperiodico.com,hispantv.com##.share
 tn.com.ar##.shares
 globo.com##.sharing
 hispantv.com##.sharings
-diarioti.com,estrellatv.com,europapress.es,publico.es##.social
+clarin.com,diarioti.com,estrellatv.com,europapress.es,publico.es##.social
 cadenaser.com##.ssnn
 ara.cat##.tool-set
 ondacero.es##.twitter
@@ -330,7 +348,7 @@ meltybuzz.it###reactionsBox
 casertanews.it###script-bannOverLayer
 gazzetta.it###share
 misya.info###side-share
-autobelle.it,canavesenews.it,gianlucadimarzio.com,virginactive.it###social
+autobelle.it,canavesenews.it,gianlucadimarzio.com,ilsecoloxix.it,virginactive.it###social
 evomagazine.it,rai.it##.Facebook
 rai.it##.Invia
 rai.tv##.Mail
@@ -349,6 +367,7 @@ ilfoglio.it##.facebook
 gianlucadimarzio.com##.fb
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.fumetti
 advicegroup.it##.google
+epochtimes.it##.header-social
 tuttosport.com##.ico-shared
 baume-et-mercier.it,ilfoglio.it##.instagram
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.introfollow
@@ -359,11 +378,12 @@ autoline-eu.it,basketinside.com,carpicalcionews.it,cittaceleste.it,comune.torino
 ilsole24ore.com##.share-elements
 provincia.bz.it##.sharing
 mediaset.it,meteo.it##.shr
-affaritaliani.it,corriere.it,diariodelweb.it,eurogamer.it,hdmotori.it,ilpopulista.it,linkiesta.it,milanofinanza.it,mtv.it,vg247.it##.social
+affaritaliani.it,angolotesti.it,corriere.it,diariodelweb.it,eurogamer.it,euronics.it,hdmotori.it,ilpopulista.it,linkiesta.it,milanofinanza.it,mtv.it,rmcsport.net,suzuki.it,vg247.it##.social
 italiaoggi.it##.socialdiv
-ilsole24ore.com##.tools
+epochtimes.it,ilsole24ore.com##.tools
 gianlucadimarzio.com,ilpost.it##.tw
 ilfoglio.it##.twitter
+mymovies.it##.vota-pul-consiglio
 ||calciomercato.it/img/notizie/social/
 !
 !---------- Korean Site Specific Hiding Rules ----------
@@ -373,6 +393,7 @@ tongilvoice.com###sns_bar
 !---------- Hebrew Site Specific Hiding Rules ----------
 !
 inn.co.il##.Share
+glz.co.il##.facebookSection
 !
 !---------- Arabic Site Specific Hiding Rules ----------
 !

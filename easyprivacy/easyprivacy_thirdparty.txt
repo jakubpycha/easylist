@@ -44,6 +44,7 @@
 ||62.219.24.238^$third-party,domain=~cast-tv.com.ip
 ||6waves.com/edm.php?uid=$image
 ||74.117.176.217/trf/track.php?$third-party,domain=~adult.sites.ip
+||88.150.172.219^*?r=
 ||88.208.248.58/tracking/
 ||93.93.53.198^$third-party,domain=~awempire.ip
 ||95.211.106.41^$third-party,domain=~leaseweb-nl.ip
@@ -245,6 +246,7 @@
 ||aolanswers.com/wtrack/
 ||aolcdn.com/js/mg2.js
 ||aolcdn.com/omniunih_int.js
+||aolcdn.com^*/beacon.min.js
 ||ape-tagit.timeinc.net^
 ||apester.com/event^
 ||api.awe.sm/stats/$third-party
@@ -284,6 +286,7 @@
 ||audit.303br.net^
 ||audit.median.hu^
 ||autoline-top.com/counter.php?
+||automate-prod.s3.amazonaws.com^$~script
 ||awaps.yandex.net^
 ||awe.sm/conversions/
 ||aweber.com/form/displays.htm?$image
@@ -618,6 +621,7 @@
 ||d36wtdrdo22bqa.cloudfront.net^
 ||d396ihyrqc81w.cloudfront.net^
 ||d3a2okcloueqyx.cloudfront.net^
+||d3alqb8vzo7fun.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3h1v5cflrhzi4.cloudfront.net^
@@ -665,6 +669,7 @@
 ||demandmedia.com/wm.js
 ||demandmedia.s3.amazonaws.com^$third-party
 ||desert.ru/tracking/
+||desipearl.com/tracker/
 ||detect.ergebnis-dienst.de^
 ||dfanalytics.dealerfire.com^
 ||dfdbz2tdq3k01.cloudfront.net^
@@ -695,10 +700,11 @@
 ||du8783wkf05yr.cloudfront.net^$third-party
 ||dufue2m4sondk.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
-||dw.cbsi.com^
-||dw.cbsimg.net^
-||dw.com.com^
+||dw.cbsi.com^$script
+||dw.cbsimg.net^$script
+||dw.com.com^$script
 ||dxwgpw0lkcum5.cloudfront.net^
+||dy2xcjk8s1dbz.cloudfront.net^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dzmxze7hxwn6b.cloudfront.net^
 ||dzxxxg6ij9u99.cloudfront.net^
@@ -917,6 +923,7 @@
 ||i-stats.ieurop.net^
 ||i.s-microsoft.com/wedcs/ms.js
 ||ib.adnxs.com^
+||ibmcloud.com/collector/
 ||icbdr.com/images/pixel.gif
 ||icu.getstorybox.com^
 ||ihstats.cloudapp.net^$third-party
@@ -1184,6 +1191,7 @@
 ||neon-lab.com/neonbctracker.js
 ||netalpaca.com/beacon
 ||netbiscuits.net^*/analytics/
+||netdna-ssl.com/tracker/
 ||netne.net/stats/
 ||netscape.com/c.cgi?
 ||neulion.vo.llnwd.net^*/track.js
@@ -1253,6 +1261,7 @@
 ||pcrl.co/js/jstracker.min.js
 ||pebed.dm.gg^
 ||peermapcontent.affino.com^
+||penton.com/analytics/
 ||perr.h-cdn.com^$third-party
 ||petitionermaster.appspot.com^
 ||pf.aclst.com^$third-party
@@ -1286,6 +1295,7 @@
 ||pixel.indieclicktv.com/annonymous/
 ||pixel.newscred.com^
 ||pixel.newsdata.com.au^
+||pixel.roymorgan.com^
 ||pixel.s3xified.com^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
@@ -1349,8 +1359,11 @@
 ||px.spiceworks.com^
 ||px.topspin.net^
 ||pxlgnpgecom-a.akamaihd.net^
+||qcloud.com/report.go?
 ||qlog.adap.tv^$object-subrequest
 ||qos.video.yimg.com^
+||qq.com/code.cgi?
+||qq.com/dataimport/
 ||qq.com/heatmap/
 ||qq.com/ping.js?
 ||qq.com/stats?
@@ -1358,6 +1371,7 @@
 ||qubitanalytics.appspot.com^
 ||quisma.com/tracking/
 ||quora.com/_/ad/
+||quora.com/qevents.js
 ||r.mail.ru^
 ||r.msn.com^
 ||r.ypcdn.com^*/rtd?ptid$image
@@ -1967,6 +1981,7 @@
 ||wunderloop.aol.co.uk^
 ||wvnetworkmedia.org/min/?
 ||x.weather.com^
+||yahoo.co.jp/js/s_retargeting.js
 ||yandex.ru/cycounter?
 ||yapi.awe.sm^$third-party
 ||yarpp.org/pixels/

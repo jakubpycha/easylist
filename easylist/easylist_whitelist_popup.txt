@@ -37,7 +37,7 @@
 @@||ads.mrringoaffiliates.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.o-networkaffiliates.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.ovocasino.com/redirect.aspx?pid=$popup
-@@||ads.pinterest.com^$popup,~third-party
+@@||ads.pinterest.com^$popup
 @@||ads.quasaraffiliates.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.reempresa.org^$popup,domain=reempresa.org
 @@||ads.slottyvegas.com/redirect.aspx?pid=*&bid=$popup
@@ -78,6 +78,7 @@
 @@||online.winner.co.uk/promoRedirect?$popup
 @@||pokerstars.eu^$popup,domain=gokkeninonlinecasino.nl
 @@||rule34hentai.net/post/$popup,~third-party
+@@||servedbyadbutler.com/redirect.spark?MID=$popup,domain=healthmeans.com
 @@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=jobamatic.com
 @@||sharerepo.com^$popup,domain=putlocker.is
 @@||sharesix.com^$popup,domain=putlocker.is

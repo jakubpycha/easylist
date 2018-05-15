@@ -129,7 +129,11 @@
 ###mvp-prev-next-wrap
 ###my_web_push_app_box_confirm
 ###network_floaty_icons
+###newsletter-banner-bottom
+###newsletter-form-holder
 ###newsletter-popup-left
+###newsletter-signup-form
+###newsletter-strip
 ###newsletter-top-banner
 ###newsletter_holder
 ###newsletter_signup_ft
@@ -251,10 +255,12 @@
 ###taboola-widget-wrapper
 ###taboola_wrapper
 ###thehill-blocks-signup-form
+###titolo-newsletter
 ###toolboxDiv1
 ###top_social_rss
 ###topjobssidebar
 ###tw_ico
+###uatu-recommendations
 ###unb-bar
 ###upprev_box
 ###uservoice-feedback
@@ -267,6 +273,7 @@
 ###webpush_modal
 ###welcome-popup-box
 ###welcome-popup-overlay
+###widget-apply-newsletter-article
 ###widget_detail_postlinks
 ###wnb-bar
 ###wpfront-notification-bar-spacer
@@ -303,6 +310,7 @@
 ##.at_nwletters
 ##.avia-post-nav
 ##.background-email-popup
+##.basicNewsletterForm
 ##.bbccom_text
 ##.bing-unit
 ##.bing_tabContent
@@ -311,6 +319,7 @@
 ##.block-dennis-newsletter-popup
 ##.block-simplenews
 ##.bookmark_services
+##.box-newsletter
 ##.box-signupform
 ##.btRSS
 ##.btnRSS
@@ -448,6 +457,7 @@
 ##.mc-newsletter-signup
 ##.meebo-1
 ##.menu-rss
+##.mobile-newsletter-mobile
 ##.mod-sharing-margin
 ##.mod-simplyhired
 ##.module--next-story-slideout
@@ -461,6 +471,8 @@
 ##.msc-rss
 ##.navigation_social
 ##.newedge-newsletter
+##.newsLetter-subscription
+##.newsLetter-subscription-wrapper
 ##.newsletter-inner
 ##.newsletter-popup-wrapper
 ##.newsletter-popups
@@ -470,6 +482,8 @@
 ##.newsletter-subscription-module
 ##.newsletterContainer
 ##.newsletter_callout
+##.newsletter_footer
+##.newsletter_root_inner
 ##.next-prev-navigation
 ##.nextStoryFly
 ##.next_news_item_pop_out
@@ -480,6 +494,7 @@
 ##.nse_subscription-list
 ##.ntfc_overlay
 ##.ntfc_popup
+##.object-subscribe-newsletter
 ##.ody-ob-taboola-wrapper
 ##.om-has-email
 ##.omniWidget-article-signup-large
@@ -655,6 +670,7 @@
 ##.whatToReadNext
 ##.wide-ad-wrapper
 ##.wide-newsletter
+##.widget-apply-newsletter-article
 ##.widget-consent-dialog
 ##.widget-feedburner
 ##.widget-feedburner-counter
@@ -822,6 +838,7 @@
 ###articleNewsletterModule
 ###article_newsletter_signup
 ###article_subscriptioncenter
+###at-cv-toaster
 ###barNewsletter
 ###bitsubscribe
 ###bloc_newsletter
@@ -1408,6 +1425,7 @@
 ##.footer-subscribe
 ##.footer__newsletter
 ##.footer__newsletter-form
+##.footer__subscribe
 ##.footer_box_newsletter
 ##.footer_form_newsletter
 ##.footer_subscribe
@@ -1434,6 +1452,9 @@
 ##.header__social--email
 ##.hp-wdt-newsltr
 ##.hz-newsletter
+##.ibnewsletter-embedded
+##.ibnewsletter-popup
+##.ibnewsletter-wrapper
 ##.ic-alert-email-newsletter-signup
 ##.icoNewsletterBig
 ##.icon-newsletter
@@ -1791,6 +1812,7 @@
 ##.subscribe-to-magazine
 ##.subscribe-top
 ##.subscribe-top-page
+##.subscribe-wrapper
 ##.subscribe2
 ##.subscribeModal
 ##.subscribePopup
@@ -1875,6 +1897,8 @@
 ##.wwd-subscribe-now-banner-background
 ##.yt-mailchimp-subscription-form-widget
 ##div[class*="NewsletterSubscribe_"]
+##div[class^="NewsletterForm_"]
+##div[class^="NewsletterPopup_"]
 ##img[title="Subscribe to our daily email"]
 ! nlgate Newsletter
 ###nlgate
@@ -3013,6 +3037,7 @@
 ###cookie-law-bar
 ###cookie-law-box
 ###cookie-law-compliance
+###cookie-law-consent
 ###cookie-law-consent-section
 ###cookie-law-container
 ###cookie-law-enforcer
@@ -4996,6 +5021,7 @@
 ###hardloop-cookie-notice
 ###have-a-cookie
 ###hays-cookie-notice
+###hb-cc-wrap
 ###hc_hugs_cookie
 ###head-bar-cookie-info
 ###headCookieAccept
@@ -5174,6 +5200,7 @@
 ###js-cookie-consent-container
 ###js-cookie-container
 ###js-cookie-dialog-box
+###js-cookie-disclaimer
 ###js-cookie-footer-block
 ###js-cookie-msg
 ###js-cookie-notice
@@ -6183,6 +6210,7 @@
 ##.CNIL
 ##.COOKIECONSENT_BANDEAU
 ##.COOKIENOTICE
+##.COOKIE_BOX
 ##.COOKIE_PRIVACY_CONT
 ##.COOKIE_USAGE_ACCEPT
 ##.CTcookie-container
@@ -7159,6 +7187,7 @@
 ##.cookieCnilCustom
 ##.cookieCnilMakheia
 ##.cookieCompliance
+##.cookieCon
 ##.cookieConcent
 ##.cookieConfirmation
 ##.cookieConsent
@@ -8048,6 +8077,7 @@
 ##.gb-gnb__notice-bar
 ##.gb_g.gb_rc.gb_sc
 ##.gdl-cookie-dialog
+##.gdpr-privacy-banner
 ##.general-cookie-notification
 ##.ghost-cookiebar
 ##.gigyaNotify
@@ -8985,6 +9015,7 @@
 ##cookiless-div
 ##div[class*="cookieBarContainer"]
 ##div[class^="cookie-banner"]
+##div[class^="cookiesAlert_"]
 ##div[data-automation="cookies-banner"]
 ##div[data-component="cookie-policy"]
 ##div[data-container-acceptcookies]
@@ -9043,6 +9074,7 @@
 ##div[style="min-width: 750px;"] > .gb_wb
 ! Scroll to top
 ###BackToTop
+###Imgback2top
 ###ScrollToTopContainer
 ###WidgetScrollToTop
 ###arrow_to_site_top
@@ -9174,6 +9206,7 @@
 ##.btn-scroll-to-top
 ##.btn-scroll-to-top-container
 ##.btn-scroll-up
+##.btn-to-top
 ##.btn2top
 ##.btnBackTop
 ##.btn_gototop
@@ -9195,10 +9228,13 @@
 ##.footer-backtotop
 ##.footer-button-top
 ##.footer-top-of-page
+##.footer__back-to-top
+##.footer__back-to-top-container
 ##.footer__go-to-top
 ##.footer__nav-to-top
 ##.g1-back-to-top
 ##.g1-back-to-top-on
+##.gantry-totop-wrapper
 ##.generate-back-to-top
 ##.glyphicon-arrow-up
 ##.go-to-top
@@ -9216,6 +9252,7 @@
 ##.gototop
 ##.goup-container
 ##.icon-back-to-top
+##.ins-backtotop
 ##.is-totop
 ##.itw-scrollTop
 ##.iyc-views-ScrollUp
@@ -9235,11 +9272,13 @@
 ##.newsletterSignup-wrapper
 ##.os-back-to-top
 ##.pagetop-btn
+##.penci-go-to-top-floating
 ##.pi-scroll-top-arrow
 ##.prodToTop
 ##.qc-back-to-top
 ##.rh-footer-back-to-top
 ##.rlx-back-top
+##.rtp-back-to-top
 ##.s5_scrolltotop
 ##.scroll-back-to-top-wrapper
 ##.scroll-to-top
@@ -9249,6 +9288,8 @@
 ##.scroll-top
 ##.scroll-top-inner
 ##.scroll-top-wrapper
+##.scroll-up-button
+##.scroll-up-button-wrapper
 ##.scroll2top
 ##.scrollToTop
 ##.scrollToTopButton
@@ -9266,6 +9307,8 @@
 ##.slideToTop
 ##.sm-page-scroll-to-top
 ##.sticky-back-to-top
+##.stt-gototop
+##.stt-top
 ##.sublink_back_top
 ##.td-scroll-up
 ##.tdr-backtop
@@ -9292,6 +9335,7 @@
 ##.ui-backtotop
 ##.ui-fixed-panel-go-top
 ##.ui-go-top
+##.up-to-top
 ##.upbtn
 ##.vw-scroll-to-top
 ##.w-toplink
@@ -9303,19 +9347,24 @@
 ##a[data-bind="toTopButton"]
 ##a[href="#back-to-top"]
 ##a[href="#top-of-page"]
+##a[onclick="go_on_top();"]
 ##a[title="Back To Top"]
 ##a[title="Back to Top"]
 ##a[title="Back to top of page"]
 ##a[title="Go To Top"]
+##a[title="Go on top"]
 ##a[title="Scorri in cima"]
 ##a[title="Scroll To Top"]
 ##a[title="Scroll to Top"]
 ##a[title="Scroll to top"]
 ##a[title="Torna su"]
+##button[class^="footer_to_top_"]
 ##button[title="Back to the top of this page"]
+##button[title="Go to top"]
 ##div[title="Back to Top"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]
+##div[title="Scroll to Top"]
 ##div[title="Scroll to bottom of page"]
 ##div[title="Vai in cima"]
 ##img[alt="Scroll to top"]
